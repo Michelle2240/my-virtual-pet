@@ -1,1 +1,2 @@
-# my-virtual-pet
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
